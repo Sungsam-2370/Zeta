@@ -4440,6 +4440,24 @@
       "screens": 5
     },
     {
+      "name": "CONBAFUDLATINO",
+      "title": "Conker's Bad Fur Day - Latino",
+      "author": "DomazinUS - Luigi - Switch Scene",
+      "version": "0.0.1.5",
+      "description": "Port PC - N64",
+      "details": "SE MEJORA LA ROM, Gracias a Pablo Boss, ahora incluye algunas imagenes en español (Menus) y actualiza a lamas nueva version el doblaje - Parche latino es posible gracias a Huguito, Zain. Azanza, DisocsChein - Conker's Bad Fur Day Recompiled - Textos en español - Audio en Español Latino - Incluye texturas originales en alta resolucion\n\nSi buscas el aporte con audio en ingles y textos en español, tambien la tenemos en esta aplicacion \n\nLa llegada de Conker's Bad Fur Day: Recompiled marca un hito técnico increíble para los fanáticos de Rare. No estamos ante una emulación tradicional ni un remake desde cero, sino ante una recompilación estática que ejecuta el juego de forma 100% nativa, liberando por fin a la ardilla irreverente de las severas limitaciones de hardware de la Nintendo 64\n\nA diferencia de la versión de Nintendo 64 de 2001, que sufría de una resolución bajísima de 292x214 píxeles en formato 4:3 y un rendimiento altamente inestable que a veces caía a un dígito, este port nativo ofrece pantalla panorámica (16:9) con escalado y un rendimiento ultra fluido que soporta 60 FPS nativos.\n\nEl control de cámara problemático e incómodo de los botones C del mando original se sustituye por una cámara libre analógica en el stick derecho o ratón que esquiva las paredes de forma inteligente. El sistema de apuntado tosco y flotante de la era de los 64 bits ahora se puede jugar con giroscopio junto a una retícula fija, lo que mejora drásticamente la experiencia en las secciones de disparo. Además, el almacenamiento cerrado del cartucho se abre por completo para permitir la carga directa de paquetes de texturas HD y mods desde su propio launcher, complementado con adiciones modernas como el guardado automático, contadores visuales de dinero y pestañas dedicadas a la accesibilidad.\n\nEl juego original de Rare era una obra maestra de la comedia madura y el despliegue técnico en su época, pero jugarlo en pleno siglo XXI con su tasa de cuadros por segundo original era una tortura. Conker's Bad Fur Day: Recompiled soluciona esto por completo. Al correr de manera nativa, el movimiento es suave como la seda, reduciendo drásticamente la frustración en los saltos milimétricos y las secciones de plataformas difíciles.\n\nLas adiciones en los esquemas de control rescatan secciones que antes eran casi injugables, como el icónico y difícil escape del fuerte de los Tediz\n\nConker's Bad Fur Day: Recompiled es, sin lugar a dudas, la mejor forma de jugar este clásico en la actualidad. Supera con creces a la emulación tradicional al eliminar por completo el retraso de entrada (input lag) y los tirones de pantalla. Redescubrir la ópera del Great Mighty Poo o las parodias de The Matrix es un auténtico deleite para cualquier amante de los videojuegos retro\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/LATINOCONKER.zip",
+      "instalacion": "forwarders/ports_juegos/Conker_64_Latino/Conker_64_Latino.nsp",
+      "license": "Español Latino",
+      "category": "Ports",
+      "binary": "/switch/ConkerRecomp_latino/ConkerRecomp_latino.nro",
+      "filesize": 138922,
+      "extracted": 596195,
+      "updated": "23/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
