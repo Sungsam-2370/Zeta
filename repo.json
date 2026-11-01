@@ -4498,6 +4498,25 @@
       "screens": 5
     },
     {
+      "name": "SHAK2",
+      "title": "Shank 2",
+      "author": "Zhtipu",
+      "version": "1.0.0",
+      "description": "Port Xbox",
+      "details": "Shank 2 es la consagración del gore bidimensional y un videojuego de acción beat 'em up excelente, refinando al milímetro la fórmula de acción brutal que introdujo su predecesor, este título de desplazamiento lateral rinde un espectacular tributo al cine de acción clásico de los años 80 y al estilo de serie B, envolviendo su jugabilidad en una estética de cómic sangrienta pero visualmente magnifica\n\nEl arte de la carnicería fluida\n\nLa verdadera evolución respecto a la primera entrega no radica en cambios estructurales profundos, sino en la perfección absoluta de su sistema de combate. Klei eliminó las transiciones toscas para ofrecer combos fluidos y extremadamente dinámicos. Shank ahora puede alternar sin interrupciones entre sus icónicos cuchillos, armas pesadas (como motosierras o mazos) y armamento de fuego a larga distancia\n\nUn añadido fundamental en la jugabilidad es el sistema de contraataques y esquivas. Al presionar el comando en el momento justo, puedes interceptar los golpes enemigos y ejecutar animaciones de muerte viscerales y exageradas. Además, la inclusión de trampas en el escenario y la posibilidad de robar y usar las armas que los oponentes dejan caer aportan frescura a cada combate\n\nNarrativa prescindible, rejugabilidad salvaje\n\nSi buscas una trama profunda, no la vas a encontrar aquí. La historia es una mera excusa anodina para avanzar despedazando militares y criminales que oprimen a la población civil. La campaña principal es corta y se puede superar en aproximadamente un par de horas. Los jefes finales, si bien son gigantescos, pueden resultar predecibles una vez que memorizas sus patrones de ataque\n\nNo obstante, el juego brilla en su rejugabilidad. El modo campaña evalúa tu desempeño con un sistema de puntuación que te impulsa a mejorar tus multiplicadores de combo y evitar morir. Con los puntos acumulados, es posible desbloquear hasta 16 personajes jugables diferentes, cada uno equipado con bonificaciones pasivas únicas que modifican sutilmente el estilo de juego (como mejoras en el daño de granadas o agarres específicos)\n\nShank 2 es un arcade sobresaliente que da exactamente lo que promete: acción directa, combos adictivos y una hermosa violencia animada. A pesar de su corta campaña y una trama intrascendente, sus pulidos controles y el carisma de su apartado visual lo convierten en un viaje salvaje obligatorio para los amantes de los juegos de acción clásicos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/SHAK2.zip",
+      "instalacion": "forwarders/ports_juegos/Shank2/Shank2.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/shank2-nx/shank2.nro",
+      "pagina": "github.com\n/zhtipu/shank2-nx",
+      "filesize": 1271528,
+      "extracted": 1350071,
+      "updated": "24/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
