@@ -4463,10 +4463,11 @@
       "name": "LMAN",
       "title": "Luigi's Mansion Recompiled",
       "author": "StevensND",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Port PC-GC",
       "details": "EL menu de configuracion se abre presionando L3 y R3 al mismo tiempo, configuren lo que consideren necesario, existe un poco de lag mientras los shaders se cargan por primera vez en cada escenario, esperen un  momento e ira a velocidad normal, esto solo ocurre la primera vez, un poco de overclock ayuda a mejorar la experiencia\n\nLuigi's Mansion Recompiled es un triunfo absoluto de la ingeniería de software que traslada el clásico de GameCube a PC de manera nativa. Desarrollado mediante recompilación estática a través de la herramienta Aurora, este port prescinde por completo de la emulación (como Dolphin), permitiendo que el hardware moderno de computadoras y dispositivos portátiles extraiga el máximo potencial visual y de rendimiento del juego original\n\nRendimiento y Fluidez Sobresalientes\n\nLa característica más impactante de este port es la fluidez. Mientras que el título original estaba bloqueado a 30 cuadros por segundo, Luigi's Mansion Recompiled implementa una sofisticada interpolación de fotogramas que permite alcanzar hasta 60 FPS estables. Lo extraordinario de esta técnica es que mantiene intacta la lógica interna del motor original a 30 actualizaciones por segundo, evitando que las físicas o las animaciones de los fantasmas se rompan por la alta tasa de refresco. El resultado es una experiencia de juego extremadamente suave y moderna\n\nDespliegue Visual Modernizado\n\nResolución nativa y relación de aspecto: Ofrece soporte completo para resoluciones superiores. Además, adapta el campo de visión de forma idónea (Hor+) para pantallas panorámicas 16:9 sin deformar la imagen\n\nTratamiento de iluminación avanzado: Al activar la función de iluminación mejorada (enhanced lighting), el juego renderiza sombras más suaves, efectos de destello (bloom) y un comportamiento de la luz que otorga una atmósfera mucho más lúgubre y rica a la mansión\n\nOptimización de shaders: Gracias a la precarga previa de shaders, la experiencia está libre de los micro tirones (stuttering) que suelen plagar a los emuladores tradicionales.\n\nContenido y Flexibilidad de Versiones\n\nEl proyecto destaca por su excelente compatibilidad con las imágenes ISO originales tanto norteamericanas como europeas. Es altamente recomendable utilizar la versión europea (PAL), ya que este port desbloquea de forma nativa la ansiada Hidden Mansion (Mansión Oculta/Espejo) con la disposición de elementos invertida, ofreciendo un desafío renovado para los veteranos de la entrega. Del mismo modo, el soporte multilingüe permite disfrutar de todos los textos completamente en español.\n\nLuigi's Mansion Recompiled no es solo una alternativa a la emulación; es la versión definitiva para disfrutar de este clásico de culto en la actualidad.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "actualizacion": "http://205.209.102.107/Luis/Act/ACT_LMAN_101.zip",
       "zip_url": "http://205.209.102.107/Luis/LMAN.zip",
       "instalacion": "forwarders/ports_juegos/LuigiMansion_1/LuigiMansion_1.nsp",
       "license": "Español - Multi idioma",
@@ -4475,7 +4476,7 @@
       "pagina": "https://github.com/StevensND/lm-nx",
       "filesize": 2900734,
       "extracted": 3118841,
-      "updated": "24/08/2026",
+      "updated": "25/08/2026",
       "screens": 5
     },
     {
