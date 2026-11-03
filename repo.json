@@ -4539,6 +4539,27 @@
       "screens": 5
     },
     {
+      "name": "TEFO",
+      "title": "Team Fortress 2 ReClassic",
+      "author": "NaGaa95",
+      "version": "1.0.1",
+      "description": "Port Android",
+      "details": "Team Fortress 2 Android Classic (también conocido por la comunidad en sus vertientes de desarrollo como TF2 Re Classic o proyectos alternativos de ports no oficiales) representa un esfuerzo masivo por parte de la comunidad de desarrolladores independientes para trasladar la mítica experiencia del shooter de Valve a dispositivos móviles\n\nUna nostalgia portátil muy fiel\n\nEsencia intacta: El logro más grande de este proyecto es que mantiene el espíritu caótico, absurdo y divertido del juego original de PC. Las animaciones de las armas, los modelos y las interacciones se sienten sumamente familiares para cualquiera que haya jugado al título de Valve\n\nPersonalización en su momento cumbre: En sus mejores etapas, el port permitía añadir contenido personalizado, utilizar armas que no venían por defecto e incluso configurar inventarios de una manera bastante avanzada para tratarse de una aplicación móvil independiente\n\nComunidad dedicada: A pesar de las barreras técnicas, la existencia de servidores comunitarios activos demuestra que hay un público sólido que prefiere jugar con controles táctiles antes que abandonar la experiencia de TF2 cuando no están frente a una computadora\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/TEFO_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/TEFO_2.zip",
+      "zip_url_3": "http://205.209.102.107/Luis/TEFO_3.zip",
+      "instalacion": "forwarders/ports_juegos/TeamFortress2/TeamFortress2.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/tf2_nx/tf2_nx.nro",
+      "pagina": "https://github.com/NaGaa95/tf2_nx",
+      "filesize": 9254254,
+      "extracted": 18461336,
+      "updated": "25/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
