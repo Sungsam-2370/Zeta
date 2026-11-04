@@ -4579,6 +4579,26 @@
       "screens": 5
     },
     {
+      "name": "BANNUT",
+      "title": "Banjo-Kazooie Nuts & Bolts",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.1",
+      "description": "Port Xbox360",
+      "details": "Banjo-Kazooie: Nuts & Bolts (conocido en español como Baches y Cachivaches) es una de las entregas más incomprendidas de la historia de los videojuegos, destacando por sustituir las plataformas tradicionales por un brillante e innovador sistema de construcción de vehículos\n\nEl título causó una enorme división: los fanáticos que esperaban un juego de recolección en mundos tridimensionales al estilo de Nintendo 64 se sintieron decepcionados, mientras que aquellos que abrazaron su propuesta mecánica descubrieron un título adelantado a su época.\n\nEl núcleo jugable abandona casi por completo las habilidades físicas de la icónica pareja de oso y ave para centrarse en un robusto taller de ingeniería. El jugador dispone de un editor sumamente avanzado y accesible que permite ensamblar coches, aviones, barcos y helicópteros utilizando cientos de piezas como motores, propulsores, armas y flotadores. Cada desafío del juego, planteado por el Señor de los Juegos (LOG), se puede resolver de infinitas maneras: la efectividad del vehículo depende enteramente de la lógica física y de la creatividad de quien diseñe la máquina\n\nVisualmente, el juego envejeció de manera espectacular gracias a una dirección de arte colorida, mundos masivos con un diseño de niveles ingenioso y texturas detalladas que explotan muy bien el potencial del hardware. La banda sonora mantiene la magia y el carisma humorístico de Grant Kirkhope, entrelazando composiciones nuevas con melodías clásicas que apelan a la nostalgia de la franquicia.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/BANNUT_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/BANNUT_2.zip",
+      "instalacion": "forwarders/ports_juegos/Banjo_Nuts_Bolts/Banjo_Nuts_Bolts.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/renut-nx/renut-nx.nro",
+      "pagina": "hhttps://github.com/ChanseyIsTheBest/renut-nx",
+      "filesize": 5410303,
+      "extracted": 7129883,
+      "updated": "26/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
