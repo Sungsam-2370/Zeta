@@ -4599,6 +4599,25 @@
       "screens": 5
     },
     {
+      "name": "CASTHD",
+      "title": "Castlevania Harmony of Despair",
+      "author": "Rashevskyv",
+      "version": "0.295.0",
+      "description": "Port Xbox",
+      "details": "Castlevania Harmony of Despair en Español\n\nCastlevania: Harmony of Despair es un experimento multijugador audaz que transforma la clásica fórmula Metroidvania en una carrera contra el reloj cooperativa, este título de Konami se olvida por completo de la narrativa para concentrarse en lo que los fanáticos más dedicados de la saga adoran: el loot, la optimización de estadísticas y la adrenalina del speedrunning. Es una carta de amor nostálgica orientada al juego en equipo, aunque se puede abordar en solitario\n\nEl objetivo es simple: avanzar del punto A al punto B en un límite estricto de 30 minutos para derrotar al jefe del escenario\n\nLa genialidad del mapa radica en su escala. Con un solo botón puedes alejar la cámara por completo para observar todo el nivel interactuando en tiempo real, lo que te permite ver dónde están tus compañeros, qué cofres quedan por abrir y cómo se mueven las amenazas. El juego brilla con hasta seis jugadores simultáneos en línea: exige coordinación, compartir comida estratégicamente para aumentar el daño, activar palancas conjuntas y usar los poderosos Dual Crush heredados de Portrait of Ruin. Además, la muerte no te expulsa de la partida; te convierte en un esqueleto capaz de lanzar huesos mientras esperas que un aliado te reviva con un Agua Vital\n\nSi buscas una progresión convencional basada en niveles de experiencia, este juego te decepcionará. En Harmony of Despair, tu fuerza está totalmente ligada al equipamiento y las habilidades que encuentres en los cofres. Cada nivel culmina con un cofre dorado tras vencer al jefe, cuya rareza de recompensa escala según la dificultad seleccionada y el número de jugadores\n\nEsto convierte al título en una experiencia sumamente adictiva si disfrutas de repetir escenarios para conseguir esa arma con un 1% de probabilidad de aparición o para maximizar el nivel de tus hechizos\n\nVisualmente, el juego es un collage de la era de los 'sprites' en 2D. Konami recicló de forma descarada el arte, los enemigos y los mapas de entregas previas como Aria of Sorrow, Dawn of Sorrow y Order of Ecclesia\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/CASTHD.zip",
+      "instalacion": "forwarders/ports_juegos/Castlevania_Harmony_Despair/Castlevania_Harmony_Despair.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/cvhd/cvhd.nro",
+      "pagina": "https://github.com/rashevskyv/cvhd-recomp",
+      "filesize": 218717,
+      "extracted": 453362,
+      "updated": "27/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
