@@ -4618,6 +4618,25 @@
       "screens": 5
     },
     {
+      "name": "OCA3D",
+      "title": "TLoZ Ocarina of Time 3DS",
+      "author": "JohnUzoka",
+      "version": "0.1.0",
+      "description": "Port PC-3DS",
+      "details": "El proyecto TriAevum representa un hito técnico masivo al lograr la recompilación estática nativa para PC de The Legend of Zelda: Ocarina of Time 3D, la aclamada versión de Nintendo 3DS desarrollada originalmente por Grezzo. A diferencia de los ports basados en ingeniería inversa del juego de Nintendo 64, este software toma el código binario de la portátil y lo traduce directamente para ejecutarse de forma nativa, la experiencia resultante toma la que ya era considerada la versión definitiva del juego y la eleva a estándares de hardware actuales\n\nFidelidad visual y esteroides técnicos\n\nEl mayor impacto de TriAevum radica en su apartado gráfico. Al dejar atrás las limitaciones de resolución de la pantalla de 3DS, el juego escala de forma nativa hasta 1080p y tasas de cuadros por segundo desbloqueadas de hasta 60 FPS. El port no se limita a estirar la imagen; integra de manera impecable el paquete de texturas en alta definición de Enrico y añade características ausentes en el juego de Grezzo, como la generación de pasto procedural denso y personalizado, reflejos avanzados y un sistema de iluminación moderno que reaviva por completo los escenarios clásicos de Hyrule\n\nRediseño de interfaz de pantalla única\n\nUno de los retos más complejos de portar un juego de 3DS es la dependencia de la pantalla doble. TriAevum soluciona esto con maestría al unificar la interfaz de usuario en un formato de pantalla única pensado para monitores de PC. Se elimina por completo la necesidad de una pantalla táctil integrando todas las funciones en el menú principal y en la pantalla activa, mapeando el inventario, los accesos rápidos a objetos y los botones fijos para la Ocarina de forma cómoda y accesible mediante mandos tradicionales o teclado y ratón\n\nEl valor de la versión Grezzo intacto\n\nAl basarse en la versión de 3DS, TriAevum hereda de forma automática todas las mejoras de calidad de vida que hicieron grande a ese remake. El juego se beneficia de un ritmo mucho más ágil debido a animaciones optimizadas y mecánicas corregidas. El caso más evidente son las Botas de Hierro en el Templo del Agua, las cuales se equipan pulsando un solo botón en lugar de tener que pausar constantemente la partida. También incluye las ranuras adicionales de objetos, el modo Master Quest en espejo y el Boss Challenge para revivir los combates contra jefes\n\nTriAevum se consolida como la forma definitiva de preservar y jugar Ocarina of Time 3D. Es una pieza de preservación técnica pulida que respeta la esencia del clásico de 1998, aprovecha los sutiles refinamientos del remake de 2011 y exprime el hardware moderno para entregar el viaje de Link en un esplendor visual que antes parecía imposible\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/OCA3D.zip",
+      "instalacion": "forwarders/ports_juegos/Ocarina_3DS/Ocarina_3DS.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/oot3dre/oot3d_native_game.nro",
+      "pagina": "https://github.com/JohnUzoka/TriAevum-Switch",
+      "filesize": 630127,
+      "extracted": 1049069,
+      "updated": "27/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
