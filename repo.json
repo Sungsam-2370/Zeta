@@ -4675,6 +4675,25 @@
       "screens": 5
     },
     {
+      "name": "KINFI",
+      "title": "The King of Fighters 2002: Unlimited Match",
+      "author": "Tbittech",
+      "version": "0.1.1",
+      "description": "Port Xbox360",
+      "details": "The King of Fighters 2002: Unlimited Match es, para una gran parte de la comunidad de juegos de lucha, la versión definitiva del KOF más querido y jugado de la historia\n\nLo Bueno: Un "Dream Match" Sin Precedentes\n\nEl roster más grande de la saga: Cuenta con la impresionante cantidad de 66 personajes jugables. Reúne prácticamente a todos los peleadores de la "Saga de NESTS" (KOF 99 al 2001), variantes EX, jefes icónicos (como Krizalid, Clone Zero, Original Zero e Igniz), además de Nameless, el elogiado sustituto de K9999\n\nBalanceo técnico impecable: A diferencia del nostálgico pero imperfecto KOF 2002 original de las "maquinitas" (Arcade), esta versión reequilibró por completo el daño, corrigió bugs mecánicos y rediseñó las propiedades de los ataques. Todos los personajes pasaron a ser competitivamente viables\n\nEvolución del Modo Max: El sistema de combos y cancels se pulió drásticamente. Se añadieron los espectaculares movimientos MAX2 (o HSDM) con nuevas animaciones y un apartado visual renovado que aprovecha fondos en 2.5D y efectos modernos en los sprites clásicos\n\nApartado sonoro magistral: Incluye una banda sonora totalmente nueva y remezclada con temas icónicos de la saga que superan con creces la música de la versión original\n\nThe King of Fighters 2002: Unlimited Match en Xbox es una joya atemporal de los juegos de pelea. Si buscas revivir las viejas glorias de los salones recreativos con el máximo nivel de pulido técnico posible, este título merece un lugar de honor en tu catálogo\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/KINFI.zip",
+      "instalacion": "forwarders/ports_juegos/King_of_Fighters_2002/King_of_Fighters_2002.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/kof2002um-nx/kof2002um-nx.nro",
+      "pagina": "https://github.com/tbittech/kof2002um-nx",
+      "filesize": 602336,
+      "extracted": 1158184,
+      "updated": "29/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
