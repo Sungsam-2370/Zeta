@@ -4694,6 +4694,25 @@
       "screens": 5
     },
     {
+      "name": "MAPA4",
+      "title": "Mario Party 4",
+      "author": "Yirr777",
+      "version": "0.2.0",
+      "description": "Port GC",
+      "details": "Mario Party 4 es el estreno de la franquicia en Nintendo GameCube y destaca por ofrecer uno de los mejores catálogos de minijuegos de toda la saga, aunque se ve frenado por el diseño plano y algo lento de sus tableros\n\nLo mejor del juego\n\nMinijuegos memorables. Cuenta con cerca de sesenta minijuegos con controles sencillos y mecánicas muy divertidas. Pruebas como Booksquirm o Dungeon Duos siguen siendo referentes en el multijugador local\n\nSalto gráfico y sonoro. El paso a los 128 bits dotó a los personajes y escenarios de modelos tridimensionales coloridos y fluidos. Las voces digitalizadas y la música temática de cada escenario acompañan bien la acción\n\nVariedad de modos extra. Además del modo fiesta tradicional y el modo historia, incluye una sala de extras con desafíos individuales y minijuegos especiales como el vóleibol de playa\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/MAPA4.zip",
+      "instalacion": "forwarders/ports_juegos/Mario_Party_4/Mario_Party_4.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/partyboard/partyboard.nro",
+      "pagina": "https://github.com/Yirr777/PartyBoard-NX",
+      "filesize": 1368522,
+      "extracted": 1519528,
+      "updated": "29/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
