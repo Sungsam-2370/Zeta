@@ -4714,6 +4714,26 @@
       "screens": 5
     },
     {
+      "name": "DASO2",
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "author": "KostinKD",
+      "version": "1.10.0.1",
+      "description": "Port Xbox360",
+      "details": "Requiere Overclock\n\nDark Souls II: Scholar of the First Sin es la edición definitiva del RPG de acción de FromSoftware. Ofrece más de 100 horas de juego exigente al integrar las tres expansiones originales junto con mejoras técnicas y de diseño\n\nContenido completo y expandido. Incluye de serie los tres contenidos descargables de la trilogía de las Coronas Perdidas, los cuales ofrecen algunos de los mejores jefes y retos del título\n\nRediseño de enemigos y objetos. Los adversarios y tesoros fueron reubicados en todo el mapa. Esto sorprende tanto a veteranos como a novatos y eleva la dificultad en zonas conocidas\n\nHistoria y personajes nuevos. Incorpora al personaje que da nombre a esta versión, un nuevo jefe final opcional, un desenlace alternativo y descripciones ampliadas en los objetos\n\nMultijugador ampliado. Permite partidas en línea de hasta seis jugadores simultáneos. Además, añade el Anillo de Ágape para bloquear la ganancia de almas y facilitar el emparejamiento con amigos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/DASO2_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/DASO2_2.zip",
+      "instalacion": "forwarders/ports_juegos/Dark_Souls_2/Dark_Souls_2.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/ds2scholar-nx/ds2.nro",
+      "pagina": "https://github.com/KostinKD/ds2scholar-nx",
+      "filesize": 6692982,
+      "extracted": 7277131,
+      "updated": "30/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
