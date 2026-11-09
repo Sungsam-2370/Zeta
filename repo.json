@@ -4714,25 +4714,6 @@
       "screens": 5
     },
     {
-      "name": "SMREMX",
-      "title": "Smash Remix",
-      "author": "Lucasliet",
-      "version": "2.0.1.9",
-      "description": "Port PC-N64",
-      "details": "Smash Remix es la modificación no oficial definitiva para el Super Smash Bros. original de Nintendo 64, cuadruplicando su contenido sin alterar las físicas clásicas del título de 1999. Su versión 2.0.1 consolida una experiencia masiva\n\nLo más destacado del proyecto\n\nElenco masivo y respetuoso. Amplía los 12 luchadores originales a casi medio centenar de personajes jugables con movimientos propios. Incluye veteranos de entregas posteriores como Ganondorf, Falco, Mewtwo y Sonic, además de íconos inéditos de la era de los 64 bits como Banjo-Kazooie, Conker, Goemon y Crash\n\nEscenarios y banda sonora. Añade más de 50 escenarios nuevos y remezclados inspirados en clásicos como Perfect Dark y Super Mario RPG. Cada nivel cuenta con pistas musicales adaptadas al chip de sonido de la consola y efectos de voz originales para los nuevos peleadores\n\nNuevos modos de juego. Incorpora modalidades muy pedidas como Home Run Contest, All-Star Mode y el Remix Mode, donde enfrentas oleadas temáticas de personajes\n\nFidelidad técnica. Mantiene intactos a los 12 luchadores base para conservar el balance clásico. Los personajes añadidos están modelados con la estética poligonal exacta de 1999, haciendo que parezcan contenido oficial creado por Nintendo\n\nEste proyecto es una carta de amor imprescindible para los fanáticos del Nintendo 64 y los juegos de pelea en plataformas. Logra la hazaña de sentirse como una secuela oficial que nunca salió al mercado, ofreciendo diversión infinita en partidas locales de hasta cuatro jugadores.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
-      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
-      "zip_url": "http://205.209.102.107/Luis/SMREMX_2019.zip",
-      "instalacion": "forwarders/ports_juegos/Smash_Remix/Smash_Remix.nsp",
-      "license": "Ingles",
-      "category": "Ports",
-      "binary": "/switch/BattleShip-Remix/BattleShip-Remix.nro",
-      "pagina": "https://github.com/lucasliet/BattleShip-remix",
-      "filesize": 79152,
-      "extracted": 95191,
-      "updated": "30/08/2026",
-      "screens": 5
-    },
-    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
