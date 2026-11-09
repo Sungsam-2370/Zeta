@@ -4753,6 +4753,25 @@
       "screens": 5
     },
     {
+      "name": "MEP2",
+      "title": "Metroid Prime 2: Echoes",
+      "author": "FurryLilManChild",
+      "version": "0.5.0.1",
+      "description": "Port PC-GC",
+      "details": "Menu de configuracion de juego se abre presionando al mismo tiempo el boton mas (+) y el boton menos (-) de los joycon, configurenlo a su gusto. Alhoo de overclock puede ser requerido para una mejor experiencia\n\nMetroid Prime 2: Echoes es una secuela más oscura, exigente y compleja que lleva la fórmula de exploración en primera persona de Retro Studios a un nivel superior de tensión, el título destaca por su diseño de mundo dual y un combate mucho más desafiante que el de su predecesor\n\nHistoria y ambientación\n\nSamus Aran acude al planeta Éter para investigar la desaparición de un escuadrón de la Federación Galáctica. Al llegar, descubre que un impacto meteórico dividió el planeta en dos dimensiones paralelas que luchan por la energía planetaria\n\nNarrativa ambiental. La trama se desarrolla principalmente mediante el escaneo de terminales y registros, construyendo un universo decadente sin depender de largas cinemáticas\n\nTono opresivo. La atmósfera es mucho más sombría y hostil que en la primera entrega, reforzada por el trágico destino de los soldados de la Federación y la extinción inminente de los Luminosos\n\nAntagonistas memorables. Además de enfrentar a los Ing, criaturas de la oscuridad, el juego introduce a Samus Oscura como una rival recurrente que eleva la tensión en momentos clave\n\nJugabilidad y diseño de niveles\n\nLa estructura mantiene la esencia metroidvania de exploración e interconexión de mapas, pero introduce mecánicas inspiradas en la dualidad de mundos de The Legend of Zelda: A Link to the Past\n\nÉter de Luz y Éter Oscuro. El jugador debe alternar entre ambas dimensiones para resolver acertijos y abrir caminos bloqueados. La atmósfera de Éter Oscuro drena la salud de Samus de forma constante, obligando a planificar rutas entre burbujas de luz seguras hasta conseguir mejoras de traje\n\nSistema de rayos y munición. Se introducen el Rayo Oscuro y el Rayo de Luz, los cuales requieren munición limitada. Esto añade un componente táctico, ya que debes alternar disparos según las debilidades elementales de cada enemigo para recargar energía\n\nNuevas habilidades. El arsenal se amplía con mejoras como el Ecovisor, el Visor Oscuro y el Salto Espiral, herramientas indispensables para navegar los laberínticos escenarios\n\nApartado técnico y sonoro\n\nEl motor gráfico exprime las capacidades de GameCube ofreciendo escenarios vastos, efectos volumétricos de partículas y una iluminación dinámica sobresaliente\n\nDetalles visuales. Destacan los efectos en el visor de Samus, como el vaho, la lluvia y el reflejo de su rostro ante los relámpagos\n\nBanda sonora ambiental. Compuesta por Kenji Yamamoto, la música apuesta por tonos etéreos y ecos siniestros que acentúan la sensación de soledad y peligro constante\n\nAciertos principales. Su diseño de niveles interconectados, los combates contra jefes altamente estratégicos y una atmósfera inmersiva lo convierten para muchos fans en el mejor capítulo de la trilogía.\n\nMetroid Prime 2: Echoes es una obra maestra del diseño de aventuras que recompensa a los jugadores pacientes y observadores. Aunque su curva de dificultad y la opresión de su mundo oscuro lo hacen menos accesible que el primer juego, su profundidad mecánica lo consolida como un imprescindible de la saga\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/MEP2_F.zip",
+      "instalacion": "forwarders/ports_juegos/Metroid_Prime_2/Metroid_Prime_2.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/mp2-nx/mp2-nx.nro",
+      "pagina": "https://github.com/FurryLilManChild/MP2-nx",
+      "filesize": 1302916,
+      "extracted": 1360781,
+      "updated": "01/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
