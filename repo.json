@@ -4791,6 +4791,25 @@
       "screens": 5
     },
     {
+      "name": "SPMW",
+      "title": "Super Paper Mario",
+      "author": "Eladerino",
+      "version": "0.3.0",
+      "description": "Port PC-Wii",
+      "details": "Super Paper Mario es un excelente y arriesgado título de Wii que destaca por su brillante historia, su humor ácido y su ingeniosa mezcla de plataformas con rol. Aunque abandona los combates por turnos de entregas anteriores, ofrece una aventura muy creativa y memorable con una duración cercana a las 20 horas\n\nJugabilidad y mecánicas\n\nCambio de dimensión. Mario puede alternar entre un plano 2D tradicional y una perspectiva 3D para resolver acertijos, esquivar trampas y encontrar secretos ocultos\n\nCuatro héroes jugables. A lo largo de la aventura controlas a Mario, Peach, Bowser y Luigi, aprovechando habilidades únicas como el planeo con sombrilla o el aliento de fuego\n\nToques de rol. Conservas puntos de corazón, subida de niveles, tiendas e inventario de objetos que resultan clave contra los jefes finales\n\nHistoria y estilo visual\n\nTrama profunda. La historia gira en torno al Conde Cenizo y la búsqueda de los Corazones Puros para evitar que un agujero negro destruya todos los mundos\n\nHumor y parodia. El guion está lleno de diálogos ingeniosos que satirizan desde los videojuegos clásicos hasta la cultura del coleccionismo\n\nEstética vanguardista. Combina el encanto del papel recortado con escenarios geométricos y surrealistas que aprovechan muy bien el estilo artístico de la consola\n\nSi buscas una aventura original, divertida y con una gran historia este juego es para ti. Si esperas un juego de rol táctico tradicional como las entregas de Nintendo 64 o GameCube, el enfoque en las plataformas podría sorprenderte, pero su creatividad lo convierte en un clásico indispensable de la consola\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/SPMW_ES.zip",
+      "instalacion": "forwarders/ports_juegos/Super_Paper_Mario/Super_Paper_Mario.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/spm-nx/spm-nx.nro",
+      "pagina": "https://github.com/Eladerino/spm-nx",
+      "filesize": 280332,
+      "extracted": 474906,
+      "updated": "02/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
