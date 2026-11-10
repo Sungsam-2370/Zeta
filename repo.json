@@ -4772,6 +4772,25 @@
       "screens": 5
     },
     {
+      "name": "MEPH",
+      "title": "Metroid Prime Hunters",
+      "author": "FurryLilManChild",
+      "version": "0.5.0",
+      "description": "Port PC-NDS",
+      "details": "Metroid Prime Hunters es un videojuego de disparos en primera persona que destaca por su impresionante logro técnico en Nintendo DS y su adictivo modo multijugador, aunque sacrifica la exploración profunda típica de la franquicia, situando su historia entre los dos primeros juegos principales de la serie Prime\n\nHistoria y ambientación\n\nPremisa espacial. Samus Aran viaja al Sector Alímbico tras recibir un mensaje telepático sobre una fuente de poder definitivo. El argumento gira en torno a la recolección de ocho artefactos llamados Octolitos antes de que caigan en manos equivocadas\n\nNuevos cazarrecompensas. La trama introduce a seis cazadores rivales con diseños y armas únicas, entre los que destacan Sylux, Trace y Weavel. Estos personajes aparecen de forma recurrente durante la campaña para robar tus avances y protagonizar duelos directos\n\nJugabilidad y controles\n\nEnfoque en la acción. A diferencia de otros títulos de la saga, la aventura prioriza el combate constante sobre los acertijos complejos o la exploración interconectada. Los niveles funcionan como arenas cerradas unidas por viajes en nave entre distintos planetas y estaciones\n\nSistema de control híbrido. El juego utiliza la cruceta para desplazarse y la pantalla táctil con el lápiz stylus para apuntar con gran precisión. Aunque esta configuración ofrece una respuesta similar a la de un ratón de computadora, sostener la consola portátil con una sola mano puede provocar cansancio físico tras sesiones largas.\n\nMejoras limitadas. En lugar de desbloquear habilidades clásicas de movimiento para Samus, el progreso consiste en obtener las armas de los otros cazadores. Estas armas funcionan principalmente como llaves de colores para abrir puertas bloqueadas en cada planeta\n\nApartado técnico y multijugador\n\nReferente visual en portátil, el motor gráfico exprime al máximo la capacidad 3D de Nintendo DS con escenarios detallados y una tasa de cuadros fluida. El título incluso incluye escenas cinemáticas prerrenderizadas que eran poco comunes en el catálogo de la consola\n\nEl pilar multijugador. La verdadera fortaleza del cartucho reside en sus modos competitivos tanto locales como en línea, los cuales permiten controlar a cualquiera de los siete cazarrecompensas. Sus mapas bien diseñados y sus distintas variantes de partida lo convirtieron en uno de los referentes de acción competitiva de su generación\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/MEPH.zip",
+      "instalacion": "forwarders/ports_juegos/Metroid_Prime_Hunters/Metroid_Prime_Hunters.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/mph-nx/mph-nx.nro",
+      "pagina": "https://github.com/FurryLilManChild/MPH-nx",
+      "filesize": 76254,
+      "extracted": 133993,
+      "updated": "01/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
