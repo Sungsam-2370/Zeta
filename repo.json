@@ -4810,6 +4810,25 @@
       "screens": 5
     },
     {
+      "name": "MESR",
+      "title": "Metroid Samus Returns",
+      "author": "FurryLilManChild",
+      "version": "0.5.0",
+      "description": "Port 3DS",
+      "details": "Dejen Presionado unos momentos el boton menos (-) del joy con para abrir el menu de configuracion, algo de overclock mejora la experiencia dejuego\n\nMetroid: Samus Returns es una sobresaliente reinterpretación moderna del clásico de Game Boy que revitalizó la saga en dos dimensiones, desarrollado para Nintendo 3DS, el título logra modernizar la aventura de 1991 con mecánicas ágiles y una ambientación absorbente\n\nPremisa y estructura\n\nMisión en SR388. El objetivo principal consiste en explorar las profundidades del planeta SR388 para exterminar a los 40 metroides que habitan en sus distintos sectores\n\nProgresión por zonas. El avance sigue una estructura lineal dividida en áreas donde debes eliminar a todas las criaturas locales para desbloquear el paso hacia niveles más profundos\n\nNarrativa ambiental. La historia prescinde casi por completo de diálogos y apuesta por cinemáticas mudas e ilustraciones que transmiten el aislamiento de la cazarrecompensas\n\nJugabilidad y novedades mecánicas\n\nContragolpe físico. Se introduce un ataque cuerpo a cuerpo que permite desviar embestidas enemigas y dejar a los rivales vulnerables para rematarlos de un disparo crítico.\n\nApuntado en 360 grados. La mira láser ofrece precisión total en cualquier ángulo, lo que agiliza enormemente los enfrentamientos frente a los controles rígidos del título original.\n\nHabilidades Aeion. Un medidor de energía especial alimenta poderes nuevos como el Pulso de Escaneo para revelar bloques ocultos en el mapa o la armadura de rayos para reducir el daño recibido.\n\nNavegación optimizada. La pantalla táctil muestra el mapa en tiempo real y permite colocar marcadores personalizados, además de incorporar estaciones de teletransporte que reducen el tiempo de viaje al volver atrás\n\nLo mejor. Destaca por su fluidez de movimiento, sus intensas batallas contra jefes finales como Diggernaut y una duración que ronda las 10 a 12 horas para completar el cien por ciento\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Zeta/main",
+      "zip_url": "http://205.209.102.107/Luis/MESR.zip",
+      "instalacion": "forwarders/ports_juegos/Metroid_Samus_Returns/Metroid_Samus_Returns.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/msr/msr.nro",
+      "pagina": "https://github.com/FurryLilManChild/MSR-nx",
+      "filesize": 502421,
+      "extracted": 749303,
+      "updated": "01/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
