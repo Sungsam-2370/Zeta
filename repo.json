@@ -4831,6 +4831,24 @@
       "screens": 5
     },
     {
+      "name": "MKR",
+      "title": "Magic Knight Rayearth",
+      "author": "Luigi - Switch Scene",
+      "version": "1.0.0",
+      "description": "Port Saturn",
+      "details": "Juego en español gracias a la traducción de Jin, textos en español, audio japones original, al elegir juego nuevo esperen unos segundos el juego empezara en breve\n\nMagic Knight Rayearth (Las Guerreras Magicas) para Sega Saturn es una joya de culto del género Action-RPG en 2D que adapta con gran fidelidad la primera temporada del manga y anime de CLAMP. El título destaca como un cierre de lujo para la consola en América al ser su último lanzamiento oficial en 1998\n\nHistoria y ambientación\n\nPremisa fiel al anime. Tres estudiantes de secundaria llamadas Hikaru, Umi y Fuu son transportadas al mundo mágico de Céfiro para rescatar a la princesa Emeraude de manos de Zagato\n\nTono sorprendentemente maduro. Aunque comienza como una aventura clásica de fantasía colorida, la trama guarda giros oscuros y emotivos en su recta final\n\nDiarios ilustrados. Cada protagonista escribe su propio diario con comentarios narrados tras cada evento importante, lo que permite conocer sus distintos puntos de vista y personalidades\n\nJugabilidad y sistema de combate\n\nAcción en tiempo real. El juego ofrece una perspectiva cenital similar a The Legend of Zelda o Secret of Mana, enfocada en la exploración de mazmorras, resolución de acertijos y combates directos.\n\nCambio instantáneo de heroínas. Puedes alternar entre las tres chicas en cualquier momento con los botones superiores del control. Hikaru destaca por su velocidad con la espada, Umi ofrece mayor alcance y fuerza, y Fuu ataca a distancia con su arco además de curar con magia de viento.\n\nRitmo ágil y duración ideal. La aventura principal toma entre 12 y 18 horas sin relleno innecesario. Incluye 56 amuletos arcoíris ocultos por todo el mapa para quienes buscan completar el cien por ciento\n\nGiro final inesperado. En los últimos compases de la historia, el sistema de juego cambia brevemente hacia un estilo de disparos espaciales verticales controlando a los gigantescos Genios\n\nApartado técnico y sonoro\n\nArte 2D sobresaliente, el título aprovecha el hardware de Saturn con sprites grandes, fondos pintados a mano, efectos de zoom y magias muy llamativas\n\nEscenas de anime con limitaciones. Incluye frecuentes secuencias animadas originales del estudio TMS, pero sufren de una fuerte compresión de video típica de los discos de mediados de los noventa\n\nBanda sonora y doblaje. La música acompaña con melodías pegadizas que van desde temas orquestales hasta ritmos modernos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "instalacion_directa": "http://205.209.102.107/Luis/Dir/MKR.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "pagina": "Grupo Switch Scene",
+      "binary": "/none",
+      "filesize": 669741,
+      "extracted": 669741,
+      "updated": "02/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
