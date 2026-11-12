@@ -4868,6 +4868,24 @@
       "screens": 5
     },
     {
+      "name": "ALIAM",
+      "title": "American McGee's Alice",
+      "author": "Adumah",
+      "version": "0.33.0.4",
+      "description": "Port PC",
+      "details": "American McGee's Alice es un clásico de culto de acción y plataformas en tercera persona que destaca por su atmósfera gótica y psicológica, aunque sus controles han envejecido de forma irregular, el título reimagina el cuento clásico de Lewis Carroll como un oscuro viaje por la mente traumatizada de su protagonista\n\nHistoria y ambientación\n\nLa trama comienza años después de los libros originales, tras un incendio que mató a los padres de Alicia y la dejó catatónica en el Asilo Rutledge\n\nPremisa psicológica. El País de las Maravillas se ha corrompido y reflejado en su mente rota, gobernado ahora por una tiránica Reina de Corazones que simboliza su propia culpa y trauma\n\nPersonajes retorcidos. Figuras icónicas como el Sombrerero Loco o la Duquesa aparecen transformadas en seres grotescos y hostiles. El Gato de Cheshire actúa como una guía críptica pero esencial durante el recorrido\n\nDirección artística y sonora. El diseño de niveles psicodélico y perturbador sigue siendo su punto más fuerte. La banda sonora inquietante refuerza la sensación de incomodidad y locura durante toda la aventura\n\nJugabilidad y mecánicas\n\nEl título combina combate en tercera persona, exploración y resolución de acertijos al estilo de los juegos de aventura de finales de los años noventa\n\nArsenal creativo. Alicia cuenta con 10 armas inspiradas en juguetes y objetos del cuento, como la icónica Espada Vorpal, naipes afilados, una caja sorpresa explosiva y dados demoníacos\n\nSaltos imprecisos. El plataformeo es el aspecto más criticado por su falta de precisión y ángulos de cámara rígidos. Aunque incluye un indicador de huellas en el suelo para calcular el aterrizaje, es común caer al vacío por errores de perspectiva\n\nDificultad exigente. Los enemigos infligen mucho daño y los puntos de control automáticos son escasos, por lo que resulta indispensable guardar la partida manualmente con frecuencia.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/ALIAM.zip",
+      "instalacion": "forwarders/ports_juegos/American_Mcgee_Alice/American_Mcgee_Alice.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/LookingGlass/LookingGlass.nro",
+      "pagina": "https://github.com/adumah/lookingglass-nx",
+      "filesize": 764452,
+      "extracted": 784168,
+      "updated": "03/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
