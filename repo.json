@@ -4905,6 +4905,24 @@
       "screens": 5
     },
     {
+      "name": "MANHU",
+      "title": "Manhunt 1",
+      "author": "N/A",
+      "version": "0.2.0",
+      "description": "Port Xbox",
+      "details": "Adaptado para cargar español por defecto, si quieren jugar otro idioma deben de ir al menu de configuracion\n\nManhunt para Xbox original es una experiencia de sigilo y horror visceral que combina una premisa perturbadora con mecánicas tácticas muy sólidas\n\nHistoria y ambientación\n\nLa trama te pone en la piel de James Earl Cash, un convicto condenado a muerte cuya ejecución resulta ser una farsa. Al despertar, descubre que fue comprado por un sádico magnate conocido como El Director, quien lo obliga a recorrer los barrios abandonados de Carcer City\n\nPremisa de supervivencia. El objetivo principal es sobrevivir enfrentando a diversas pandillas callejeras mientras decenas de cámaras graban cada movimiento para una película clandestina\n\nTono opresivo. A diferencia del humor satírico de la saga Grand Theft Auto, esta obra apuesta por una atmósfera sucia, tensa y cinematográfica inspirada en el cine de suspenso de los años ochenta\n\nJugabilidad y mecánicas de sigilo\n\nEl título exige paciencia y observación constante, ya que el combate directo suele ser mortal para el protagonista\n\nUso de las sombras. Ocultarse en la oscuridad vuelve a Cash prácticamente invisible ante los cazadores, convirtiendo cada esquina en un refugio vital\n\nControl del ruido. Correr sobre distintas superficies o golpear paredes permite atraer enemigos hacia trampas o distraerlos para cruzar sin ser visto\n\nSistema de ejecuciones. Al acechar a un enemigo por la espalda con un arma improvisada, mantener presionado el botón de ataque carga tres niveles de brutalidad con animaciones distintas y cada vez más gráficas\n\nTiroteos tardíos. En el tramo final aparecen armas de fuego con mayor frecuencia, donde la cámara y la puntería resultan algo torpes en comparación con la precisión del sigilo cuerpo a cuerpo\n\nApartado técnico y ventajas en Xbox\n\nGráficos más nítidos. Presenta texturas de mayor resolución, soporte para pantalla panorámica y modelos más definidos que en PlayStation 2, aunque conserva filtros granulados tipo cinta VHS para mantener su estética cruda\n\nDiseño sonoro sobresaliente. La banda sonora sintetizada aumenta de intensidad según el nivel de peligro, acompañada de efectos de sonido contundentes\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/MANHU.zip",
+      "instalacion": "forwarders/ports_juegos/Manhunt/Manhunt.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/manhunt1_nx/manhunt.nro",
+      "pagina": "N/A",
+      "filesize": 2021669,
+      "extracted": 2500796,
+      "updated": "05/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
