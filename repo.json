@@ -4923,6 +4923,24 @@
       "screens": 5
     },
     {
+      "name": "COVEX",
+      "title": "Resident Evil Code: Veronica X",
+      "author": "Gerisson1996",
+      "version": "1.0.0",
+      "description": "Port PC-PS2",
+      "details": "Juego con voces y texto en español, Menu rapido presionando L3+R3, Menu completo de configuracion presionado boton menos (-) y boton mas (+) de los joy con, configuren el juego a su gusto\n\nEl port nativo de Resident Evil Code: Veronica X —impulsado por el proyecto de descompilación recvx-decomp— transforma este clásico survival horror de 2001 en una experiencia moderna definitiva sin depender de emuladores\n\nLo mejor del port y la descompilación\n\nRendimiento nativo y mejoras visuales. Al ejecutarse de forma nativa, elimina los problemas de compatibilidad de los emuladores e incorpora soporte para resoluciones panorámicas, un renderizador mejorado y carga directa de paquetes opcionales de texturas en alta definición (HD).\n\nJugabilidad modernizada. Mantiene intacta la atmósfera clásica si buscas la experiencia purista, pero añade controles modernos opcionales, apuntado libre y una cámara en tercera persona sobre el hombro que refresca por completo el combate\n\nOpciones de personalización y rejugabilidad. Incluye herramientas de depuración, trucos integrados, gestión independiente de archivos de guardado y configuraciones avanzadas para alterar los enemigos\n\nEs la mejor forma de jugar Code: Veronica X en la actualidad. Mientras Capcom aún no lanza un remake oficial de esta entrega, el trabajo de preservación detrás de recvx-decomp permite disfrutarlo con estándares actuales, corrigiendo la rigidez de sus controles tanque originales para quienes los encontraban una barrera, pero respetando cada detalle para los veteranos de la saga\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/COVEX.zip",
+      "instalacion": "forwarders/ports_juegos/Code_Veronica/Code_Veronica.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/recvx/recvx.nro",
+      "pagina": "https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
+      "filesize": 1794115,
+      "extracted": 2102592,
+      "updated": "06/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
