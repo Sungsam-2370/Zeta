@@ -4966,6 +4966,24 @@
       "screens": 5
     },
     {
+      "name": "FEHU2",
+      "title": "Fear & Hunger 2: Termina",
+      "author": "N/A",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Fear & Hunger 2: Termina es una secuela brutal, profunda y mucho más pulida que el juego original, ideal si buscas un RPG de terror y supervivencia donde el conocimiento importa más que tus reflejos\n\nAmbientado siglos después de la primera entrega, el juego abandona las mazmorras medievales para situarte en la ciudad de Prehevil durante los años 40, 14 desconocidos quedan atrapados en un tren y son obligados por el dios antiguo Rher a participar en el Festival de Termina: un juego mortal de tres días donde, en teoría, solo uno puede sobrevivir\n\nLo mejor del juego\n\nSistema de combate táctico y desmembramiento. Los combates por turnos funcionan como rompecabezas letales. En lugar de solo bajar una barra de vida, debes decidir qué extremidad cortar primero para neutralizar los ataques más peligrosos del enemigo antes de ir por la cabeza o el torso.\n\nProgresión basada en conocimiento. El juego no te lleva de la mano y castiga cada error con mutilaciones, pérdida de cordura o muertes instantáneas. Sin embargo, cada derrota te enseña qué objetos evitar, cómo resolver encuentros sin pelear y qué rutas tomar, haciendo que tus siguientes intentos sean mucho más fluidos\n\nOcho personajes jugables con historias únicas. Puedes elegir entre perfiles muy distintos (como una ocultista, un boxeador, un médico o una botánica en silla de ruedas), y cada uno cuenta con habilidades iniciales, trasfondos y eventos exclusivos que cambian por completo la forma de abordar la ciudad\n\nMecánica del paso del tiempo. Guardar la partida avanza el reloj del día (mañana, tarde y noche) a lo largo de los tres días del festival. Esto obliga a gestionar con cuidado cuándo descansar, ya que ciertos eventos, reclutamientos y transformaciones de otros participantes solo ocurren en momentos específicos\n\nAtmósfera opresiva y arte inquietante, la secuela cambia el terror claustrofóbico del primer juego por una sensación constante de caos urbano, folclore oscuro y horror cósmico acompañado de una banda sonora excelente\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "instalacion_directa": "http://205.209.102.107/Luis/Dir/FEHU2.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "pagina": "N/A",
+      "binary": "/none",
+      "filesize": 1655882,
+      "extracted": 1655882,
+      "updated": "07/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
