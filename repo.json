@@ -4959,6 +4959,24 @@
       "screens": 5
     },
     {
+      "name": "POPSANTI",
+      "title": "Prince of Persia: The Sands of Time",
+      "author": "Martín Cabral - Carafe/Autorun",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Prince of Persia: The Sands of Time es una obra maestra atemporal que reinventó los juegos de acción y plataformas en 3D gracias a su fluida acrobacia y su innovadora mecánica de control temporal\n\nHistoria y ambientación\n\nLa trama funciona como un relato narrado en primera persona por el propio protagonista. Tras ser engañado por un visir traidor, el joven Príncipe libera las Arenas del Tiempo usando una daga mágica, convirtiendo a casi todo el palacio en monstruos de arena\n\nNarrativa orgánica. El juego utiliza la voz en off del Príncipe como recurso narrativo y mecánico; si mueres, él aclara que la historia no ocurrió así, manteniendo la inmersión sin romper el ritmo\n\nEvolución de personajes. La relación entre el Príncipe y Farah —la hija del Maharajá— pasa de la desconfianza mutua a una alianza genuina, reflejada incluso en el desgaste físico de la ropa del protagonista a medida que avanza la aventura\n\nDirección artística y sonora. Los escenarios palaciegos iluminados con tonos cálidos se complementan con una banda sonora de inspiración árabe y un excelente doblaje al español que acentúan la atmósfera de Las mil y una noches\n\nJugabilidad y mecánicas\n\nPlataformas y parkour. Correr por las paredes, balancearse en postes y encadenar saltos acrobáticos se siente natural y preciso, convirtiendo cada sala del palacio en un rompecabezas vertical\n\nLa Daga del Tiempo. Esta herramienta permite retroceder unos segundos para corregir saltos fallidos, ralentizar enemigos o congelarlos en combate, reduciendo la frustración sin eliminar el reto\n\nCombate y ritmo. Aunque las peleas con espada son vistosas gracias a los saltos sobre enemigos, constituyen el punto más repetitivo del título frente a la brillantez de sus secciones de plataformas y acertijos\n\nPuntos fuertes. Diseño de niveles magistral, ritmo narrativo impecable, puzles ingeniosos y el uso creativo de la Daga del Tiempo.\n\nEs un título imprescindible que definió una época y sentó las bases para sagas posteriores como Assassin's Creed. Su duración cercana a las 8 o 10 horas lo convierte en una experiencia compacta, sin relleno y sumamente recomendable tanto por nostalgia como por diseño de videojuegos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "instalacion_directa": "http://205.209.102.107/Luis/Dir/POPSANTI.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "pagina": "",
+      "binary": "/none",
+      "filesize": 4040663,
+      "extracted": 4040663,
+      "updated": "07/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
