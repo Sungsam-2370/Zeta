@@ -4977,6 +4977,25 @@
       "screens": 5
     },
     {
+      "name": "CONCRIMO",
+      "title": "Condemned Criminal Origins",
+      "author": "Ipungsx",
+      "version": "0.2.0",
+      "description": "Port -Xbox360",
+      "details": "IMPORTANTE: Port a Switch por ipungsx (Basado en el proyecto ReXGlue / ds2-nx), el juego tarda un poco en compilar/cargar la primera vez, no desesperen\n\nCondemned: Criminal Origins en su versión de Xbox 360 es, indiscutiblemente, una de las experiencias de terror psicológico y combate cuerpo a cuerpo más crudas e inmersivas de su generación. Gracias a la magia de la recompilación estática en la escena homebrew, esta obra maestra de culto de Monolith Productions llega por fin de manera nativa a Nintendo Switch\n\nA diferencia de las soluciones basadas en emulación tradicional —que serían imposibles de ejecutar con fluidez en el hardware de la consola híbrida debido a la compleja arquitectura PowerPC de Xbox 360—, el trabajo realizado en condemned-nx traduce el código original del juego directamente a C++ nativo. El resultado no es un emulador, sino una ejecución directa sobre el hardware de Switch utilizando el motor gráfico deko3d.\n\nApartado Técnico y Gráficos\n\nModelos y Texturas: Iluminación y Atmósfera: Uno de los pilares de Condemned siempre fue su ambientación opresiva, oscura y claustrofóbica Este port logra renderizar con fidelidad absoluta las sombras dinámicas (stencil shadows), las luces volumétricas de las linternas, los efectos de posprocesado y el detallado modelado de los personajes, manteniendo intacta la estética sucia e industrial del título de 2005\n\nRendimiento: el juego es completamente jugable de principio a fin, Funciona en un rango de 30 a 40 fotogramas por segundo en modo portátil (utilizando un perfil de GPU a 460 MHz), ofreciendo una tasa de respuesta sólida y muy disfrutable tanto en los momentos de exploración como en los brutales enfrentamientos cuerpo a cuerpo. El port incluye un menú interno de configuración visual al que puedes acceder en cualquier momento de la partida pulsando la combinación de botones ZL + ZR + Menos (-), permitiéndote ajustar parámetros para equilibrar rendimiento y calidad.\n\nJugabilidad y Control Modernizado\n\nEl verdadero triunfo de esta adaptación radica en poder experimentar la tensión de la investigación criminal y la visceralidad de su combate en cualquier lugar. Condemned se aleja de los shooters convencionales para centrarse en peleas brutales con tuberías, tablas con clavos y armas improvisadas que encuentras en el entorno, donde cada golpe pesa y cada sombra es una amenaza
+Jugar con los controles de Nintendo Switch se siente completamente natural y preciso. La respuesta de los sticks y los gatillos para bloquear, golpear y utilizar las herramientas forenses (como la luz ultravioleta o el espectrómetro) traslada sin fisuras la experiencia original de consola de sobremesa al formato portátil.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Magios/CONCRIMO.zip",
+      "instalacion": "forwarders/ports_juegos/Condemned_Criminal_Origins/Condemned_Criminal_Origins.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/condemned-nx/condemned-nx.nro",
+      "pagina": "https://github.com/ipungsx/condemnedCOx360-Port-Switch",
+      "filesize": 3623433,
+      "extracted": 766979,
+      "updated": "08/11/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
