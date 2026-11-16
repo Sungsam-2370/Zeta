@@ -4996,6 +4996,24 @@ Jugar con los controles de Nintendo Switch se siente completamente natural y pre
       "screens": 5
     },
     {
+      "name": "CRAZYTAXINX",
+      "title": "Crazy Taxi Dreamcast",
+      "author": "FurryLilManChild",
+      "version": "0.5.0.2",
+      "description": "Port - Sega Dreamcast",
+      "details": "Una adaptación nativa de Crazy Taxi para Nintendo Switch, basada en la versión de Sega Dreamcast, realizada mediante recompilación estática con dream-recomp. Se trata de la versión de Dreamcast, que incluye la banda sonora original, no la versión para dispositivos móviles.\n\nRecomendado poner la cpu a 1224mhz (overclock) para que el juego corra al 100% de velocidad (se puede sin overclock, pero habran tironsitos en las zonas donde el desmadre sea mas grande)\n\nRevive las rutas de taxi mas alocadas, en uno de los clásicos de toda la vida, Creado por Sega. Crazy Taxi, es una de las joyas imperdibles que todo gamer debe probar al menos una vez en la vida, y esta vez es la oportunidad perfecta.\n\nCrazy Taxi DecompNX, nos permite jugar de manera nativa el clásico de la Dreamcast en nuestra híbrida preferida, soportando 60fps, y pudiendo ajustar ciertas características en el menú del port (apretando el botón menos de la consola) como controles, contador de fotogramas, forma de la pantalla, volumen, translucidez, resolución en el juego, frecuencias de la CPU, la GPU y la memoria, y salir del juego.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Magios/taxiloco.zip",
+      "instalacion": "forwarders/ports_juegos/CrazyTaxiDecompNX/CrazyTaxiDecompNX.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "switch/crazytaxi/crazytaxi.nro",
+      "pagina": "https://github.com/FurryLilManChild/CTDC-nx",
+      "filesize": 137808,
+      "extracted": 1260648,
+      "updated": "8/09/2026",
+      "screens": 3
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
