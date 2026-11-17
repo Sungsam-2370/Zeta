@@ -5013,6 +5013,24 @@
       "screens": 3
     },
     {
+      "name": "FIS2",
+      "title": "FIFA Street 2",
+      "author": "xsaja",
+      "version": "0.1.0",
+      "description": "Port XBOX",
+      "details": "El proyecto street2-nx representa un logro técnico sobresaliente al traer de forma nativa a Nintendo Switch la versión original de Xbox de FIFA Street 2, el icónico título de fútbol callejero desarrollado por EA Sports BIG. A diferencia de las soluciones basadas en emulación tradicional —que exigen demasiados recursos para traducir la arquitectura de la consola de Microsoft en tiempo real—, este port desarrollado por xsaja realiza una recompilación estática del ejecutable original (versión USA), logrando una ejecución directa y fluida sobre el hardware de la híbrida de Nintendo\n\nAutenticidad callejera sin compromisos\n\nEl mayor impacto de street2-nx radica en su capacidad para trasladar la energía frenética y la identidad visual del clásico de 2006 sin las penalizaciones de rendimiento propias de un emulador. El juego conserva intactas las animaciones exageradas, los efectos de cámara dinámicos y el carisma urbano de sus canchas alrededor del mundo. Además, incorpora detección automática de idioma, adaptándose de inmediato a la configuración del sistema de tu Nintendo Switch para ofrecer una experiencia completamente integrada\n\nControles precisos y multijugador local\n\nEn un título donde el espectáculo y los reflejos lo son todo, la respuesta de los mandos es fundamental. street2-nx traslada con total precisión el emblemático sistema Trick Stick al stick derecho de la consola, permitiendo encadenar regates, autopases contra las paredes y humillaciones con total naturalidad para llenar la barra de Gamebreaker. El port también incluye soporte funcional para partidas locales de dos jugadores utilizando dos mandos completos, manteniendo viva la esencia competitiva del sofá (el uso de Joy-Con individuales aún no está soportado en esta versión)\n\nModos completos desde el primer lanzamiento\n\nA pesar de encontrarse en su primera versión pública (v0.1.0), el proyecto destaca por su sorprendente solidez y estabilidad. Los jugadores pueden disfrutar sin cierres inesperados de toda la oferta jugable del título original: desde encuentros rápidos en Play Now y la personalización de escenarios en Create a Zone, hasta la progresión completa para conquistar las calles en Rule the Street y las pruebas técnicas de Skill Challenges\n\nstreet2-nx se consolida desde su estreno como una pieza brillante de preservación y escena homebrew. Es un rescate técnico impecable que devuelve a la vida uno de los juegos deportivos arcade más queridos de su generación, permitiéndote llevar el fútbol más espectacular y irreverente a cualquier parte en modo portátil\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola (recuerda iniciarlo en modo título manteniendo pulsado R sobre un juego o usando el acceso directo incluido)\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Magios/FIS2.zip",
+      "instalacion": "forwarders/ports_juegos/fifastreet2/fifastreet2.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/street2-nx/street2.nro",
+      "pagina": "https://github.com/xsaja/street2-nx",
+      "filesize": 1565109,
+      "extracted": 2039087,
+      "updated": "8/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
