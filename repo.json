@@ -5110,6 +5110,24 @@
       "screens": 5
     },
     {
+      "name": "SHADCOL",
+      "title": "Shadow of the Colossus",
+      "author": "Lemasterxar5",
+      "version": "0.1.0",
+      "description": "Port PS2",
+      "details": "Incluye texturas en HD por Panda Venom, el menu de configuracion se abre apretando el boton menos (-) y el boton (+) de los joycon al mismo tiempo\n\nShadow of the Colossus es una obra maestra minimalista que llevó el hardware de PlayStation 2 a su límite absoluto, el título renuncia a las convenciones tradicionales de los videojuegos para ofrecer una experiencia poética, solitaria e inolvidable\n\nHistoria y atmósfera\n\nLa trama sigue a Wander, un joven que viaja a una tierra prohibida junto a su yegua Agro para revivir a Mono, una doncella sacrificada. Para lograrlo, hace un pacto con una entidad llamada Dormin que le exige destruir a 16 colosos\n\nLa narrativa destaca por contar mucho con muy pocas palabras. No hay aldeas, personajes secundarios ni diálogos extensos. La sensación de melancolía se construye a través de ruinas abandonadas, el sonido del viento y la duda moral que surge al derribar a criaturas gigantescas que, en su mayoría, solo buscan defenderse\n\nJugabilidad: exploración y rompecabezas\n\nBúsqueda guiada por la luz. Al alzar la espada bajo el sol, un haz de luz apunta hacia el siguiente objetivo, invitándote a cruzar desiertos, bosques y acantilados a lomos de Agro\n\nCombates tipo puzle. No existen enemigos menores ni sistemas de niveles. Cada coloso es un acertijo en movimiento donde debes estudiar el entorno, encontrar una forma de trepar por su cuerpo y apuñalar sus puntos débiles mientras gestionas tu barra de resistencia\n\nProgresión orgánica. Las únicas mejoras disponibles consisten en cazar lagartos de cola blanca para aumentar tu resistencia y recoger frutas de ciertos árboles para incrementar tu salud\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/SHADCOL.zip",
+      "instalacion": "forwarders/ports_juegos/Shadow_Colossus/Shadow_Colossus.nsp",
+      "license": "Español - Multi idoma",
+      "category": "Ports",
+      "binary": "/switch/celosia_nx/celosia_nx.nro",
+      "pagina": "https://github.com/lemasterxar5/celosia-nx",
+      "filesize": 1710042,
+      "extracted": 3731780,
+      "updated": "12/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
