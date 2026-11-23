@@ -5204,6 +5204,25 @@
       "screens": 5
     },
     {
+      "name": "CALWW",
+      "title": "CoD: World at War Español",
+      "author": "N/A",
+      "version": "0.0.1",
+      "description": "Port Xbox360",
+      "details": "Juego con voces y texto en Español, Es posible que al abrir el juego tarde en iniciar, no desesperen el juego cargara, sin multijugador en linea\n\nCall of Duty: World at War es la entrega más oscura, sangrienta y visceral de toda la franquicia, el juego abandona cualquier tono heroico para retratar la brutalidad sin filtros del final de la Segunda Guerra Mundial\n\nUna campaña cruda y despiadada\n\nLa historia alterna entre dos de los frentes más sangrientos del conflicto: la campaña estadounidense en el Pacífico contra el Imperio japonés y el avance soviético desde Stalingrado hasta las ruinas de Berlín\n\nAmbientación y crudeza. A diferencia de otros títulos bélicos, aquí se muestran desmembramientos, emboscadas brutales y el uso del lanzallamas para limpiar trincheras. La narrativa soviética destaca especialmente por el carisma implacable del sargento Viktor Reznov\n\nJugabilidad exigente. Mantiene la fórmula clásica de disparos en primera persona con cobertura y avance lineal, pero eleva considerablemente la dificultad. En los niveles más altos, el combate se vuelve una prueba de resistencia frente a oleadas infinitas de enemigos y una lluvia constante de granadas\n\nCooperativo. Permite jugar casi toda la campaña en modo cooperativo de hasta cuatro jugadores en línea o dos a pantalla dividida\n\nEl nacimiento de Nazi Zombies\n\nMás allá de su campaña y su sólido modo multijugador competitivo (que heredó el sistema de clases y ventajas de Modern Warfare añadiendo vehículos y perros de ataque), el mayor legado de este título fue el modo oculto Nacht der Untoten\n\nSupervivencia pura. Al terminar la historia se desbloqueaba este modo cooperativo por oleadas en un búnker abandonado. Su éxito fue tan grande que se convirtió en un fenómeno cultural y en un pilar permanente de la saga\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/CALWW_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/CALWW_2.zip",
+      "instalacion": "forwarders/ports_juegos/CoD_WaW/CoD_WaW.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/codwaw/codwaw.nro",
+      "pagina": "N/A",
+      "filesize": 6456463,
+      "extracted": 7257442,
+      "updated": "16/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
