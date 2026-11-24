@@ -5223,6 +5223,25 @@
       "screens": 5
     },
     {
+      "name": "CALM2",
+      "title": "Call of Duty: Modern Warfare 2",
+      "author": "Kyokoxdev",
+      "version": "1.0.1",
+      "description": "Port Xbox360",
+      "details": "Disponible en español gracias al grupo Mundo Switch\n\nCall of Duty: Modern Warfare 2 es una entrega sólida, continuista y sumamente espectacular en lo audiovisual, que brilla por la contundencia de su jugabilidad (gunplay), aunque presenta una campaña de guion predecible\n\nCampaña y narrativa\n\nHistoria cinematográfica pero genérica. La trama sigue a la Fuerza Operativa 141 (Capitán Price, Ghost, Soap y Gaz) junto a las Fuerzas Especiales mexicanas lideradas por Alejandro Vargas en una cacería contra terroristas y cárteles. Aunque el carisma de los personajes sostiene el interés, la historia recurre a clichés bélicos y tiene un cierre abrupto\n\nVariedad de misiones y ritmo. Con una duración aproximada de 6 a 7 horas, el diseño de niveles destaca por alternar tiroteos frenéticos con sigilo táctico, ataques aéreos desde un AC-130, persecuciones vehiculares y fases de supervivencia con fabricación (crafteo) de objetos improvisados\n\nJugabilidad\n\nSensación de disparo sobresaliente. El manejo de las armas es el punto más fuerte del título, ofreciendo un ritmo ligeramente más táctico y pesado que entregas previas, con animaciones muy cuidadas y retroceso realista\n\nProgresión y puntos débiles. El sistema de armería obliga a utilizar distintas armas de una misma plataforma para desbloquear accesorios, lo que fomenta la experimentación pero puede resultar confuso. Además, el emparejamiento por habilidad (SBMM) es bastante estricto y los menús de navegación son poco prácticos\n\nApartado técnico y sonoro\n\nGráficos de primer nivel. El motor gráfico ofrece un fotorrealismo notable en modelados de personajes, iluminación y escenarios —con especial atención al detalle en las locaciones ambientadas en México— manteniendo tasas de cuadros fluidas\n\nDiseño de audio. El sonido de los disparos y explosiones es contundente y realista\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/CALM2_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/CALM2_2.zip",
+      "instalacion": "forwarders/ports_juegos/CoD_MW2/CoD_MW2.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "none",
+      "pagina": "https://github.com/kyokoxdev/mw2nx",
+      "filesize": 7545038,
+      "extracted": 8256489,
+      "updated": "15/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
