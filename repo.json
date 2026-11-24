@@ -5242,25 +5242,6 @@
       "screens": 5
     },
     {
-      "name": "DIDPU",
-      "title": "Deadpool",
-      "author": "BanhMi93P",
-      "version": "1.0.1",
-      "description": "Port PC-Xbox360",
-      "details": "IMPORTANTE: El juego tarda en cargar unos segundos al iniciar, no desesperen\n\nDeadpool en su versión para Nintendo Switch (deadpool-nx) es una de las hazañas técnicas más sorprendentes de la escena homebrew reciente, logrando traer de vuelta el irreverente juego de acción de High Moon Studios que lleva años descatalogado de las tiendas digitales\n\nA diferencia de otros proyectos que dependen de emuladores pesados o capas de compatibilidad que exigen demasiado hardware, este port fue creado recompilando estáticamente el código original de la versión de Xbox 360 directamente hacia la arquitectura nativa de la consola de Nintendo\n\nGracias a herramientas como ReXGlue y el renderizador de Renut sobre la API gráfica nativa deko3d, el juego corre de forma nativa en la consola, permitiéndonos disfrutar nuevamente de las locuras del Mercenario Bocazas en formato portátil\n\nApartado Técnico y Gráficos\n\nModelos y Texturas: El port conserva intactos los modelados, texturas y el estilo visual con estética de cómic de la versión de Xbox 360. Los personajes, efectos de partículas y escenarios lucen nítidos tanto en modo portátil como en modo dock\n\nRendimiento: El juego apunta a los 30 fotogramas por segundo originales utilizando las frecuencias base de la consola, ofreciendo una fluidez totalmente jugable sin necesidad de recurrir a overclock extremo\n\nEstado de desarrollo: Al encontrarse en una etapa temprana (v1.0.1), el port es completamente funcional y jugable, aunque puede presentar ligeros fallos gráficos menores, tiempos de carga iniciales algo largos o detalles de audio puntuales que se irán puliendo en futuras actualizaciones\n\nJugabilidad y Control\n\nEl frenético sistema de combate hack and slash combinado con disparos en tercera persona se traslada sin problemas a los controles de Nintendo Switch. La respuesta de los Joy-Con y el Pro Controller es inmediata, permitiendo encadenar combos de katanas, disparos con pistolas dobles y teletransportaciones con total precisión\n\nLa experiencia mantiene todo el humor ácido, la ruptura de la cuarta pared, las voces originales (con Nolan North brillando como Wade Wilson) y la variedad de mejoras de armas y habilidades de la entrega original\n\nContenido y Preservación\n\nDeadpool-nx incluye la campaña completa del título de 2013 junto con los modos de desafíos extra, permitiendo desbloquear trajes alternativos y mejorar todo el arsenal del protagonista\n\nDebido a los conocidos problemas de licencias entre Activision y Marvel que provocaron su retirada de todas las plataformas digitales, este port representa una pieza fundamental de preservación histórica, devolviendo un título de culto a una consola moderna donde nunca tuvo lanzamiento oficial\n\nEn conclusión, deadpool-nx es un logro técnico impresionante que demuestra el potencial de la recompilación estática en Nintendo Switch. Si eres fanático del personaje o de los juegos de acción directa de la era de Xbox 360, este port es una joya imprescindible para tu colección\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola (recuerda abrirlo manteniendo pulsado R sobre cualquier juego para darle acceso completo a la memoria RAM)\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP configurado a 39 bits\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
-      "zip_url": "http://205.209.102.107/Magios/DIDPU_1.zip",
-      "zip_url_2": "http://205.209.102.107/Magios/DIDPU_2.zip",
-      "instalacion": "forwarders/ports_juegos/Deadpool/Deadpool.nsp",
-      "license": "Español",
-      "category": "Ports",
-      "binary": "/switch/deadpool-nx/deadpool.nro",
-      "pagina": "https://github.com/BanhMi93P/deadpool-nx",
-      "filesize": 5347307,
-      "extracted": 5815651,
-      "updated": "15/09/2026",
-      "screens": 5
-    },
-    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
