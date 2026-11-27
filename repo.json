@@ -5336,6 +5336,24 @@
       "screens": 5
     },
     {
+      "name": "MAF1",
+      "title": "Mafia 1",
+      "author": "Luigi - Carafe/Autorun",
+      "version": "0.1.0",
+      "description": "Port PC",
+      "details": "Mafia: The City of Lost Heaven es una obra maestra del género criminal que apuesta por el realismo cinematográfico y una narrativa madura en lugar del caos arcade de otros juegos de mundo abierto de su época\n\nA diferencia de Grand Theft Auto III, donde la ciudad es un parque de diversiones para hacer desastres, la metrópoli ficticia de Lost Heaven funciona como un escenario vivo e inmersivo que sirve exclusivamente al desarrollo de su trama lineal\n\nHistoria y ambientación\n\nUn relato clásico de cine negro. Encarnas a Tommy Angelo, un humilde taxista de los años 30 durante la Ley Seca que, por azar, termina trabajando para la familia criminal Salieri. La narrativa destaca por su ritmo pausado, diálogos brillantes, dirección de cámaras muy cuidada y una banda sonora orquestal inolvidable\n\nFidelidad histórica. La recreación de la década de 1930 es sobresaliente en arquitectura, vestimenta y vehículos inspirados en modelos reales de la época\n\nJugabilidad y realismo exigente\n\nConducción realista. Los autos son pesados, tardan en acelerar, requieren frenar con anticipación y sufren daños detallados, incluyendo el desgaste o pinchazo de neumáticos. Además, la policía multa o persigue si excedes el límite de velocidad o te pasas un semáforo en rojo\n\nTiroteos tácticos y punitivos. No hay regeneración automática de salud y los botiquines escasean. El retroceso de las armas (como la icónica ametralladora Thompson) es muy marcado, las recargas tempranas desperdician las balas que quedaban en el cargador y solo puedes cargar un arma larga oculta bajo el abrigo\n\nDificultad clásica. El juego exige paciencia, uso constante de coberturas y memorización de rutas, ya que los puntos de control suelen estar bastante separados entre sí\n\nEs un imprescindible absoluto si buscas una historia absorbente de gánsteres con mecánicas realistas y desafiantes\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "instalacion_directa": "http://205.209.102.107/Luis/Dir/MAF1.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "pagina": "Grupo Switch Scene",
+      "binary": "none",
+      "filesize": 5044382,
+      "extracted": 5044382,
+      "updated": "18/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
