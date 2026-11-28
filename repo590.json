@@ -5336,6 +5336,24 @@
       "screens": 5
     },
     {
+      "name": "ROUT",
+      "title": "Resident Evil Outbreak",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "description": "Port PS2",
+      "details": "IMPORTANTE: Menu de configuracion del juego presionando boton menos (-) y boton mas (+) de los joy con, Modo Online disponible en UP TOWN (DOWN TOWN todavia no funciona el emparejamiento), crea la sala y que tus amigos se unan\n\nResident Evil Outbreak es un ambicioso experimento de survival horror cooperativo que se adelantó a su época, aunque sufrió graves problemas técnicos y de diseño en su lanzamiento original de 2003 para PlayStation 2. A pesar de sus defectos, se ha consolidado como un clásico de culto que ofrece una perspectiva única e intensa del desastre de Raccoon City\n\nConcepto y Ambientación\n\nPerspectiva civil. A diferencia de las entregas principales protagonizadas por agentes entrenados, aquí controlas a ocho ciudadanos comunes (como un policía, una mesera o un médico) intentando escapar de Raccoon City en paralelo a los eventos de Resident Evil 2 y 3\n\nEstructura episódica. La campaña se divide en cinco escenarios independientes con alto factor de rejugabilidad, rutas alternativas y distintos desenlaces según tus acciones\n\nAtmósfera opresiva. El apartado artístico mantiene el estilo clásico de cámaras fijas con entornos detallados y un diseño de sonido sobresaliente que refuerza la sensación constante de vulnerabilidad\n\nMecánicas y Jugabilidad\n\nSupervivencia en tiempo real. Abrir el inventario, combinar objetos o resolver acertijos no pausa la partida, lo que dispara la tensión en cada encuentro\n\nMedidor de infección. Todos los personajes comienzan infectados y una barra porcentual sube progresivamente o al recibir daño. Si llega al 100%, el personaje muere o se convierte en zombi\n\nInventario sumamente limitado. Cada superviviente cuenta con apenas cuatro espacios para armas, munición, curaciones y llaves, obligando a coordinar el intercambio de objetos con el equipo\n\nHabilidades únicas. Cada uno de los ocho protagonistas posee movimientos y objetos especiales propios, como el botiquín de Cindy o las ganzúas de Alyssa\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "zip_url": "http://205.209.102.107/Luis/ROUT.zip",
+      "instalacion": "forwarders/ports_juegos/ResidentEvil_Outbreak/ResidentEvil_Outbreak.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/reo-nx/reo-nx.nro",
+      "pagina": "https://gitlab.com/alexyt2021es/REO-NX",
+      "filesize": 3609022,
+      "extracted": 4316542,
+      "updated": "19/09/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
